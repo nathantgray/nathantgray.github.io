@@ -3,13 +3,13 @@ layout: default
 ---
 
 ## About Me
-
-Bachelor of Engineering in Electrical Engineering with an emphasis in Global Humanitarian Engineering
+Bachelor of Engineering in Electrical Engineering with an emphasis in Global Humanitarian Engineering - *Walla Walla 
+University* (2017)
 
 Research Assistant
 
 ### Institution and department
- - Washington State University School of Electrical Engineering and Computer Science
+Washington State University School of Electrical Engineering and Computer Science
 
 ### Skills
 Co-Simulation · Power Systems Modelling · Electrical & Electronics Engineering · Python 
