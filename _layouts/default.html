@@ -28,6 +28,9 @@
     <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
     <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
     {% endif %}
+    {% if page.mermaid %}
+    {% include mermaid.html %}
+    {% endif %}
 </head>
 <body>
 <div class="wrapper">
