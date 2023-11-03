@@ -3,7 +3,9 @@
 /*
  * Basic
  */
-
+:root {
+  color-scheme: light dark; /* both supported */
+}
 html {
     height: 100%;
     margin: 0;
