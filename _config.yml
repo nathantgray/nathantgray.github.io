@@ -2,7 +2,7 @@ title: Nathan Gray
 url: "https://nathantgray.github.io"
 baseurl: "/"
 
-markdown: GFM
+markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
