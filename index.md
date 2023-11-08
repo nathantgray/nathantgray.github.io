@@ -126,4 +126,4 @@ Electrical Engineer/Lead Electrical Engineer  (Sep 2015—Jun 2017)
 
 
 
-<iframe src="ieee_loss_min_inverters_1035.html" height="50%" width="50%" frameBorder="0"></iframe>
+<iframe src="ieee_loss_min_inverters_1035pu.html" height="100%" width="100%" frameBorder="0"></iframe>
