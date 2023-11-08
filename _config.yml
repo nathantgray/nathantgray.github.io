@@ -15,9 +15,9 @@ sass:
     style: compressed
     sass_dir: _sass
 
-#nav:
-# - name: "About"
-#   link: "index"
+nav:
+ - name: "plotly"
+   link: "ieee_loss_min_inverters_1035pu.html"
 # - name: "Resume"
 #   link: "resume.pdf"
 # - name: "Contact"
