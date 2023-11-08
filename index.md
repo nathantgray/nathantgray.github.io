@@ -1,6 +1,5 @@
 ---
 layout: default
-mermaid: true
 ---
 
 *THIS PAGE IS UNDER CONSTRUCTION*
@@ -19,15 +18,12 @@ GitHub: github.com/nathantgray
 
 -------------------------
 
-#### **PhD in Electrical Engineering**, Washington State University (In Progress)
-School of Electrical Engineering and Computer Science - Advised by Dr. Anjan Bose
+ - **PhD in Electrical Engineering**, Washington State University (In Progress)<br/>
+ School of Electrical Engineering and Computer Science - Advised by Dr. Anjan Bose
 
-<br/>
-
-#### **Bachelor of Science in Engineering** Walla Walla University (2017)
+ - **Bachelor of Science in Engineering** Walla Walla University (2017)<br/>
 Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum Laude
 
-<br/>
 
 # Research Interest
 
@@ -38,8 +34,6 @@ Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum L
  - Distributed optimization
  - Power systems modelling
  - Rural Electrification
-
-<br/>
 
 # Publications
 
@@ -67,14 +61,12 @@ Cyber-Physical Co-Simulation,” in 2021 IEEE Power & Energy Society General Mee
 # Experience
 
 -------------------------
-
-### Washington State University 20h/wk
-Research Assistant - August 2018—Present
-
+**Washington State University** 20h/wk <span style="float:right;">Aug 2018—Present</span><br/>
+Research Assistant 
 <br/>
 
-### Key Technology 40h/wk
-Electrical Engineer: Hardware and Reliability (March 2018—July 2018)
+**Key Technology** 40h/wk <span style="float:right;">Mar 2018—Jul 2018</span><br/>
+Electrical Engineer: Hardware and Reliability 
   - Troubleshoot circuit boards and other problems.
   - Plan for replacement of obsolete parts.
   - Design test fixture.
@@ -83,16 +75,15 @@ Electrical Engineer: Hardware and Reliability (March 2018—July 2018)
 
 <br/>
 
-### Key Technology 50h/wk
-Assembly Technician (August 2017—February 2018)
+**Key Technology** 50h/wk <span style="float:right;">Aug 2017—Feb 2018</span><br/>
+Assembly Technician 
   - Test and troubleshoot new machines before shipping.
   - Collaborated with engineers and technicians to solve problems.
 
 <br/>
 
-### ANR Group Inc (assigned to CHPRC) 40h/wk  Richland, WA
-Intern Electrical Engineer in support of 100K Area Facility Engineering (Jun 2016—Sep 2016)
-
+**ANR Group Inc (assigned to CHPRC)** 40h/wk  Richland, WA <span style="float:right;">Jun 2017—Sep 2018</span><br/>
+Intern Electrical Engineer in support of 100K Area Facility Engineering
   - Completed and submitted CHPRC Engineering Change Request package
     - Used AutoCAD to create drawing to fully describe the system.
     - Updated existing engineering documentation for affected systems.
@@ -105,20 +96,23 @@ Intern Electrical Engineer in support of 100K Area Facility Engineering (Jun 201
 # Volunteer Experience
 
 -------------------------
-**Engineers Without Borders WWU Local Project Team Mentor** College Place, WA
+**Engineers Without Borders WWU** College Place, WA  <span style="float:right;">Sep 2022—Present</span><br/>
+Local Project Team Mentor
   - Mentor student leader.
   - Provide support and advice to project team.
+
 <br/>
 
-**Engineers Without Borders WSU Project Team**  Pullman, WA<br/>
-Electrical Engineer  (2018—2019)
+**Engineers Without Borders WSU Project Team**  Pullman, WA <span style="float:right;">2018—2019</span><br/>
+Electrical Engineer
   - Design for solar-powered water pump system for off-grid community in Panama.
   - Construction of solar and electrical systems on site.
   - Technical support following installation.
+
 <br/>
 
-**Engineers Without Borders WWU International Project Team** College Place, WA <br/>
-Electrical Engineer/Lead Electrical Engineer  (Sep 2015—Jun 2017)
+**Engineers Without Borders WWU International Project Team** College Place, WA <span style="float:right;">Sep 2015—Jun 2017</span><br/>
+Electrical Engineer/Lead Electrical Engineer
   - Used AutoCAD to draft designs for home solar PV systems for a remote community in Peru.
   - Trained Community Members to use and maintain their PV systems.
   - Research and design for micro-hydro based mini-grid. 
