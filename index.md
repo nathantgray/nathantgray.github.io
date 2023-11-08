@@ -3,13 +3,17 @@ layout: default
 mermaid: true
 ---
 
-## About Me
 *THIS PAGE IS UNDER CONSTRUCTION*
+
+## About Me
+
+-------------------------
 
 Email: nathan.gray@wsu.edu
 
 GitHub: github.com/nathantgray
 
+###
 ## Education
 
 -------------------------
@@ -20,15 +24,7 @@ School of Electrical Engineering and Computer Science - Advised by Dr. Anjan Bos
 #### **Bachelor of Science in Engineering** Walla Walla University (2017)
 Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum Laude
 
-### Institution and department
-Washington State University School of Electrical Engineering and Computer Science
-
-### Skills
-
--------------------------
-
-Co-Simulation · Power Systems Modelling · Electrical & Electronics Engineering · Python 
-
+###
 ## Research Interest
 
 -------------------------
@@ -37,8 +33,9 @@ Co-Simulation · Power Systems Modelling · Electrical & Electronics Engineering
  - Distributed optimization
  - Cyber-physical co-simulation
  - Power systems modelling
- - Humanitarian engineering
+ - Rural Electrification
 
+###
 ## Publications
 
 -------------------------
@@ -60,7 +57,7 @@ Cyber-Physical Co-Simulation,” in 2021 IEEE Power & Energy Society General Mee
 
 [6] S. Szablya, G. Goldsmith, K. Allen, and N. Gray, “A Water System Using a DC Pump for Remote Solar Installations,” in 2019 IEEE Global Humanitarian Technology Conference (GHTC), Seattle, WA, USA: IEEE, Oct. 2019, pp. 1–1. doi: 10.1109/GHTC46095.2019.9033070.
 
-
+###
 ## Experience
 
 -------------------------
@@ -91,6 +88,8 @@ Intern Electrical Engineer in support of 100K Area Facility Engineering (Jun 201
     - Carefully studied the National Electrical Code and applied it in designs.
   - Analyzed facility electrical system to update SKM model for arc flash energy calculations.
 
+
+###
 ## Volunteer Experience
 
 -------------------------
