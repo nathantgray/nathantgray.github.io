@@ -5,7 +5,7 @@ mermaid: true
 
 *THIS PAGE IS UNDER CONSTRUCTION*
 
-## About Me
+# About Me
 
 -------------------------
 
@@ -15,19 +15,21 @@ GitHub: github.com/nathantgray
 
 <br/>
 
-## Education
+# Education
 
 -------------------------
 
 #### **PhD in Electrical Engineering**, Washington State University (In Progress)
 School of Electrical Engineering and Computer Science - Advised by Dr. Anjan Bose
 
+<br/>
+
 #### **Bachelor of Science in Engineering** Walla Walla University (2017)
 Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum Laude
 
 <br/>
 
-## Research Interest
+# Research Interest
 
 -------------------------
 
@@ -39,7 +41,7 @@ Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum L
 
 <br/>
 
-## Publications
+# Publications
 
 -------------------------
 
@@ -62,12 +64,14 @@ Cyber-Physical Co-Simulation,” in 2021 IEEE Power & Energy Society General Mee
 
 <br/>
 
-## Experience
+# Experience
 
 -------------------------
 
 ### Washington State University 20h/wk
 Research Assistant - August 2018—Present
+
+<br/>
 
 ### Key Technology 40h/wk
 Electrical Engineer: Hardware and Reliability (March 2018—July 2018)
@@ -76,6 +80,8 @@ Electrical Engineer: Hardware and Reliability (March 2018—July 2018)
   - Design test fixture.
   - Write test procedures.
   - Work with team of interdisciplinary Engineers.
+
+<br/>
 
 ### Key Technology 50h/wk
 Assembly Technician (August 2017—February 2018)
@@ -95,7 +101,7 @@ Intern Electrical Engineer in support of 100K Area Facility Engineering (Jun 201
 
 <br/>
 
-## Volunteer Experience
+# Volunteer Experience
 
 -------------------------
 **Engineers Without Borders WWU Local Project Team Mentor** College Place, WA
