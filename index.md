@@ -4,7 +4,10 @@ mermaid: true
 ---
 
 ## About Me
+*THIS PAGE IS UNDER CONSTRUCTION*
+
 Email: nathan.gray@wsu.edu
+
 GitHub: github.com/nathantgray
 
 ## Education
@@ -12,14 +15,10 @@ GitHub: github.com/nathantgray
 -------------------------
 
 #### **PhD in Electrical Engineering**, Washington State University (In Progress)
-
-###### Advisor: Dr. Anjan Bose
+School of Electrical Engineering and Computer Science - Advised by Dr. Anjan Bose
 
 #### **Bachelor of Science in Engineering** Walla Walla University (2017)
-
-###### Electrical Engineering with Global Humanitarian Engineering Emphasis
-
-###### Magna Cum Laude
+Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum Laude
 
 ### Institution and department
 Washington State University School of Electrical Engineering and Computer Science
@@ -39,7 +38,6 @@ Co-Simulation · Power Systems Modelling · Electrical & Electronics Engineering
  - Cyber-physical co-simulation
  - Power systems modelling
  - Humanitarian engineering
- - Solar power
 
 ## Publications
 
@@ -68,10 +66,10 @@ Cyber-Physical Co-Simulation,” in 2021 IEEE Power & Energy Society General Mee
 -------------------------
 
 ### Washington State University 20h/wk
-Research Assistant - August 2018 - Present
+Research Assistant - August 2018—Present
 
 ### Key Technology 40h/wk
-Electrical Engineer: Hardware and Reliability (March 2018 - July 2018)
+Electrical Engineer: Hardware and Reliability (March 2018—July 2018)
   - Troubleshoot circuit boards and other problems.
   - Plan for replacement of obsolete parts.
   - Design test fixture.
@@ -79,12 +77,12 @@ Electrical Engineer: Hardware and Reliability (March 2018 - July 2018)
   - Work with team of interdisciplinary Engineers.
 
 ### Key Technology 50h/wk
-Assembly Technician (August 2017 - February 2018)
+Assembly Technician (August 2017—February 2018)
   - Test and troubleshoot new machines before shipping.
   - Collaborated with engineers and technicians to solve problems.
 
 ### ANR Group Inc (assigned to CHPRC) 40h/wk  Richland, WA
-Intern Electrical Engineer in support of 100K Area Facility Engineering Jun 2016---Sep 2016
+Intern Electrical Engineer in support of 100K Area Facility Engineering (Jun 2016—Sep 2016)
 
   - Completed and submitted CHPRC Engineering Change Request package
     - Used AutoCAD to create drawing to fully describe the system.
@@ -101,13 +99,13 @@ Intern Electrical Engineer in support of 100K Area Facility Engineering Jun 2016
   - Provide support and advice to project team.
 
 **Engineers Without Borders WSU Project Team**  Pullman, WA
-Electrical Engineer  2018---2019
+Electrical Engineer  (2018—2019)
   - Design for solar-powered water pump system for off-grid community in Panama.
   - Construction of solar and electrical systems on site.
   - Technical support following installation.
 
 **Engineers Without Borders WWU International Project Team** College Place, WA
-Electrical Engineer/Lead Electrical Engineer  Sep 2015---Jun 2017
+Electrical Engineer/Lead Electrical Engineer  (Sep 2015—Jun 2017)
   - Used AutoCAD to draft designs for home solar PV systems for a remote community in Peru.
   - Trained Community Members to use and maintain their PV systems.
   - Research and design for micro-hydro based mini-grid. 
