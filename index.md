@@ -87,6 +87,7 @@ Electrical Engineer: Hardware and Reliability (March 2018—July 2018)
 Assembly Technician (August 2017—February 2018)
   - Test and troubleshoot new machines before shipping.
   - Collaborated with engineers and technicians to solve problems.
+
 <br/>
 
 ### ANR Group Inc (assigned to CHPRC) 40h/wk  Richland, WA
