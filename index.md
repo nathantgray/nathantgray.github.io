@@ -124,3 +124,6 @@ Electrical Engineer/Lead Electrical Engineer  (Sep 2015—Jun 2017)
   - Research and design for micro-hydro based mini-grid. 
   - Modeled loads and AC distribution grid characteristics.
 
+
+
+<iframe src="ieee_loss_min_inverters_1035.html" height="50%" width="50%" frameBorder="0"></iframe>
