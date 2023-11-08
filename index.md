@@ -126,4 +126,3 @@ Electrical Engineer/Lead Electrical Engineer  (Sep 2015—Jun 2017)
 
 
 
-<iframe src="https://nathantgray.github.io/ieee_loss_min_inverters_1035pu.html" height="100%" width="100%" frameBorder="0"></iframe>
