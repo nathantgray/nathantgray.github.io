@@ -30,8 +30,8 @@ Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum L
 -------------------------
 
  - Microgrid communication and control
- - Distributed optimization
  - Cyber-physical co-simulation
+ - Distributed optimization
  - Power systems modelling
  - Rural Electrification
 
@@ -77,6 +77,7 @@ Electrical Engineer: Hardware and Reliability (March 2018—July 2018)
 Assembly Technician (August 2017—February 2018)
   - Test and troubleshoot new machines before shipping.
   - Collaborated with engineers and technicians to solve problems.
+<br/>
 
 ### ANR Group Inc (assigned to CHPRC) 40h/wk  Richland, WA
 Intern Electrical Engineer in support of 100K Area Facility Engineering (Jun 2016—Sep 2016)
@@ -88,6 +89,7 @@ Intern Electrical Engineer in support of 100K Area Facility Engineering (Jun 201
     - Carefully studied the National Electrical Code and applied it in designs.
   - Analyzed facility electrical system to update SKM model for arc flash energy calculations.
 
+<br/>
 
 ###
 ## Volunteer Experience
@@ -96,14 +98,16 @@ Intern Electrical Engineer in support of 100K Area Facility Engineering (Jun 201
 **Engineers Without Borders WWU Local Project Team Mentor** College Place, WA
   - Mentor student leader.
   - Provide support and advice to project team.
+<br/>
 
-**Engineers Without Borders WSU Project Team**  Pullman, WA
+**Engineers Without Borders WSU Project Team**  Pullman, WA<br/>
 Electrical Engineer  (2018—2019)
   - Design for solar-powered water pump system for off-grid community in Panama.
   - Construction of solar and electrical systems on site.
   - Technical support following installation.
+<br/>
 
-**Engineers Without Borders WWU International Project Team** College Place, WA
+**Engineers Without Borders WWU International Project Team** College Place, WA <br/>
 Electrical Engineer/Lead Electrical Engineer  (Sep 2015—Jun 2017)
   - Used AutoCAD to draft designs for home solar PV systems for a remote community in Peru.
   - Trained Community Members to use and maintain their PV systems.
