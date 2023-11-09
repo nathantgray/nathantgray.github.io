@@ -2,14 +2,24 @@ title: Nathan Gray
 url: "https://nathantgray.github.io"
 baseurl: "/"
 
-markdown: kramdown
+theme: minima
+markdown: Pandoc  # kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+plugins:
+  - jekyll-feed
+  - jekyll-spaceship
+pandoc:
+  extensions:
+    - csl: assets/bib/style/apa.csl
+    - bibliography: assets/bib/library.bib
+    - filter: mermaid-filter
+    - filter: mathjax-pandoc-filter
+    - '-Mmathjax.centerDisplayMath' # center display math
 
 footer: yes
 footer_url: "https://github.com/nathantgray"
-# footer_text: "Page design by Ankit Sultana"
+footer_text: "source"
 
 sass:
     style: compressed
@@ -22,3 +32,16 @@ sass:
 #   link: "resume.pdf"
 # - name: "Contact"
 #   link: "contact"
+
+# Where things are
+jekyll-spaceship:
+  # default enabled processors
+  processors:
+    - table-processor
+    - mathjax-processor
+    - plantuml-processor
+    - mermaid-processor
+    - polyfill-processor
+    - media-processor
+    - emoji-processor
+    - element-processor

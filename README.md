@@ -1,3 +1,6 @@
+
+run locally with 
+bundle exec jekyll serve --baseurl=""
 # Researcher
 
 ### [Demo Website](http://ankitsultana.com/researcher)

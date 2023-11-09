@@ -24,6 +24,9 @@
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml"/>
     <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
+<!--    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">-->
+    <!-- Add CSS for syntax highlighting -->
+    <link rel="stylesheet" href="{{ '/assets/stylesheets/breezedark.css' | relative_url }}">
     {% if site.favicon %}
     <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
     <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
@@ -54,17 +57,17 @@
     <hr>
     {% if page.is_contact == true %}
     <div class="container content contact">
-        {% else %}
-        <div class="container content">
-            {% endif %}
-            {{ content }}
-            {% if site.footer == true %}
-            <hr/>
-            <p style="text-align: center; margin-bottom: 10px">
-                <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-            </p>
-            {% endif %}
-        </div>
+    {% else %}
+    <div class="container content">
+    {% endif %}
+    {{ content }}
+    {% if site.footer == true %}
+    <hr/>
+    <p style="text-align: center; margin-bottom: 10px">
+        <a href="{{ site.footer_url }}"><small>{{ site.footer_text }}</small></a>
+    </p>
+    {% endif %}
+    </div>
     </div>
 </div>
 </body>

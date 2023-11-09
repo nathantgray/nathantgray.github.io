@@ -2,8 +2,6 @@
 layout: default
 ---
 
-*THIS PAGE IS UNDER CONSTRUCTION*
-
 # About Me
 
 -------------------------
