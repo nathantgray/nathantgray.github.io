@@ -79,12 +79,12 @@ College Station, TX, USA: IEEE, Nov. 14, 2021, pp. 1–6, isbn: 978-1-66542-081-
 in *2021 IEEE Power & Energy Society General Meeting (PESGM)*, 
 Washington, DC, USA: IEEE, Jul. 26, 2021, pp. 1–5, isbn: 978-1-66540-507-2.
 
-[10] S. Szablya, G. Goldsmith, K. Allen$$^*$$, and **Nathan Gray**$$^*$$, 
+[10] S. Szablya, G. Goldsmith, K. Allen$^*$, and **Nathan Gray**$^*$, 
 “A Water System Using a DC Pump for Remote Solar Installations”, 
 in *2019 IEEE Global Humanitarian Technology Conference (GHTC)*, 
 Seattle, WA, USA: IEEE, Oct. 2019, pp. 1–1, isbn: 978-1-72811-780-5.
 
-$$^*$$Presenting author
+$^*$Presenting author
 <br/>
 
 # Experience
