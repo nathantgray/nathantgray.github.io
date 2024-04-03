@@ -64,7 +64,7 @@ Distributed OPF Under Communication Non-Idealities Using Cyber-Physical Co-Simul
 Framework”, in *2023 IEEE Industry Applications Society Annual Meeting (IAS)*, Nashville, TN, USA:
 IEEE, Oct. 29, 2023, pp. 1–8, isbn: 9798350320169.
 
-[6] R. Sadnan, **Nathan Gray**, A. Bose, and A. Dubey*, 
+[6] R. Sadnan, **Nathan Gray**, A. Bose, and A. Dubey<sup>\*</sup>, 
 “Bulk-power Grid Support: Distributed OPF for Voltage and Frequency Regulation”, 
 in *2023 IEEE International Conference on Communications, Control, and
 Computing Technologies for Smart Grids (SmartGridComm)*, Oct. 2023, pp. 1–7.
