@@ -147,5 +147,9 @@ Electrical Engineer/Lead Electrical Engineer
   - Research and design for micro-hydro based mini-grid. 
   - Modeled loads and AC distribution grid characteristics.
 
+# Skills
+ - Programming: Python, MATLAB, C/C++, C#, Julia
+ - Research Tools: HELICS, GridLAB-D, OpenDSS, ns-3 
 
-
+# Certifications
+ - Engineer-in-Training (EIT), Washington State, 2017
