@@ -1,11 +1,8 @@
 ---
 layout: default
 description: N. Gray
-use_math: true
 ---
-
-# CV: Nathan Gray
-
+# CV
 -------------------------
 
 Email: nathan.gray@wsu.edu
