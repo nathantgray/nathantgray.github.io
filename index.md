@@ -2,23 +2,13 @@
 layout: default
 description: N. Gray
 ---
-# CV
--------------------------
+
+[//]: # (-------------------------)
 
 Email: nathan.gray@wsu.edu
 
 GitHub: [github.com/nathantgray]()
 
-<br/>
-# Education
-
--------------------------
-
- - **Ph.D. in Electrical Engineering**, Washington State University (In Progress)<br/>
- School of Electrical Engineering and Computer Science - Advised by Dr. Anjan Bose
-
- - **Bachelor of Science in Engineering** Walla Walla University (2017)<br/>
-Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum Laude
 
 
 # Research Interest
@@ -30,6 +20,18 @@ Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum L
  - Distributed optimization
  - Power systems modelling
  - Rural Electrification
+
+# Education
+
+-------------------------
+
+ - **Ph.D. in Electrical Engineering**, Washington State University (In Progress)<br/>
+ School of Electrical Engineering and Computer Science - Advised by Dr. Anjan Bose
+
+ - **Bachelor of Science in Engineering** Walla Walla University (2017)<br/>
+Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum Laude
+
+
 
 # Publications
 

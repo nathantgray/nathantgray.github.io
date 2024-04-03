@@ -1,5 +1,5 @@
-title: Nathan Gray
-url: "https://nathantgray.github.io"
+title: Nathan Gray - CV
+#url: "https://nathantgray.github.io"
 baseurl: "/"
 
 theme: minima
@@ -28,7 +28,6 @@ sass:
 nav:
  - name: "PDF"
    link: "cv_nathan_gray.pdf"
-   new_tab: true
 # - name: "Contact"
 #   link: "contact"
 
