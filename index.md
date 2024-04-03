@@ -10,9 +10,6 @@ Email: nathan.gray@wsu.edu
 GitHub: [github.com/nathantgray]()
 
 <br/>
-$$
-K(a,b) = \int \mathcal{D}x(t) \exp(2\pi i S[x]/\hbar)
-$$
 # Education
 
 -------------------------
