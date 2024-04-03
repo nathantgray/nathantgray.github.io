@@ -84,7 +84,7 @@ Washington, DC, USA: IEEE, Jul. 26, 2021, pp. 1–5, isbn: 978-1-66540-507-2.
 in *2019 IEEE Global Humanitarian Technology Conference (GHTC)*, 
 Seattle, WA, USA: IEEE, Oct. 2019, pp. 1–1, isbn: 978-1-72811-780-5.
 
-<sup>+</sup>Presenting author
+<sup>\*</sup>Presenting author
 <br/>
 
 # Experience
