@@ -3,7 +3,7 @@ url: "https://nathantgray.github.io"
 baseurl: "/"
 
 theme: minima
-markdown: kramdown #Pandoc  # kramdown
+markdown: Pandoc  # kramdown
 #ins_logo: "./bits-logo.png"
 
 plugins:

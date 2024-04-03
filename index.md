@@ -56,7 +56,7 @@ C. Klauber, and W. Trinh, “Distributed Coordination of Networked Microgrids fo
 Bulk Power Grids”, in *2023 IEEE Industry Applications Annual Meeting*, Nashville, TN, USA:
 IEEE, Oct. 29, 2023.
 
-[5] S. Paul*, **Nathan Gray**, A. Dubey, A. Bose, M. Touhiduzzaman, and J. Ogle, “Robustness Assessment of
+[5] S. Paul<sup>\*</sup>, **Nathan Gray**, A. Dubey, A. Bose, M. Touhiduzzaman, and J. Ogle, “Robustness Assessment of
 Distributed OPF Under Communication Non-Idealities Using Cyber-Physical Co-Simulation
 Framework”, in *2023 IEEE Industry Applications Society Annual Meeting (IAS)*, Nashville, TN, USA:
 IEEE, Oct. 29, 2023, pp. 1–8, isbn: 9798350320169.
