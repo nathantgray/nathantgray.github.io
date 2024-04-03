@@ -25,11 +25,11 @@ sass:
     style: compressed
     sass_dir: _sass
 
-#nav:
-# - name: "plotly"
-#   link: "ieee_loss_min_inverters_1035pu.html"
-# - name: "Resume"
-#   link: "resume.pdf"
+nav:
+ - name: "Main"
+   link: "index.md"
+ - name: "PDF CV"
+   link: "cv_nathan_gray.pdf"
 # - name: "Contact"
 #   link: "contact"
 
