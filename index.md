@@ -4,7 +4,7 @@ description: N. Gray
 use_math: true
 ---
 
-# About Me
+# CV: Nathan Gray
 
 -------------------------
 
