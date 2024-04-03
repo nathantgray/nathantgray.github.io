@@ -1,5 +1,6 @@
 ---
 layout: default
+description: N. Gray
 use_math: true
 ---
 
