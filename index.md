@@ -14,7 +14,7 @@ GitHub: [github.com/nathantgray]()
 
 -------------------------
 
- - **PhD in Electrical Engineering**, Washington State University (In Progress)<br/>
+ - **Ph.D. in Electrical Engineering**, Washington State University (In Progress)<br/>
  School of Electrical Engineering and Computer Science - Advised by Dr. Anjan Bose
 
  - **Bachelor of Science in Engineering** Walla Walla University (2017)<br/>
