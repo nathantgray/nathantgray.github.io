@@ -26,10 +26,9 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Main"
-   link: "index.md"
  - name: "PDF CV"
    link: "cv_nathan_gray.pdf"
+   new_tab: true
 # - name: "Contact"
 #   link: "contact"
 
