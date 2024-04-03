@@ -26,7 +26,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "PDF CV"
+ - name: "PDF"
    link: "cv_nathan_gray.pdf"
    new_tab: true
 # - name: "Contact"
