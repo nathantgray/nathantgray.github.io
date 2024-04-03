@@ -3,7 +3,7 @@ url: "https://nathantgray.github.io"
 baseurl: "/"
 
 theme: minima
-markdown: kramdown #Pandoc  # kramdown
+markdown: Pandoc  # kramdown
 #ins_logo: "./bits-logo.png"
 
 plugins:
@@ -18,7 +18,7 @@ pandoc:
     - '-Mmathjax.centerDisplayMath' # center display math
 
 footer: yes
-footer_url: "https://github.com/nathantgray"
+footer_url: "https://github.com/nathantgray/nathantgray.github.io/"
 footer_text: "source"
 
 sass:
