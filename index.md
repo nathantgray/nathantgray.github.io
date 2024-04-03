@@ -39,30 +39,31 @@ Electrical Engineering with Global Humanitarian Engineering Emphasis-Magna Cum L
 
 [1] **Nathan Gray**, S. Paul, A. Dubey, A. Bose, Md. Touhiduzzaman, and J. Ogle, “Robustness Assessment of 
 Distributed
-Optimal Power Flow under Communication Non-idealities”, IEEE Industry Applications, In Review.
+Optimal Power Flow under Communication Non-idealities”, *IEEE Industry Applications*, In Review.
 
 [2] **Nathan Gray**, R. Sadnan, A. Bose, A. Dubey, T. L. Vu, J. Xie, L. D. Marinovici, K. P. Schneider,
 C. Klauber, and W. Trinh, “Distributed Coordination of Networked Microgrids for Voltage Support in
-Bulk Power Grids”, IEEE Industry Applications, In Review.
+Bulk Power Grids”, *IEEE Industry Applications*, In Review.
 
 [3] J. Xie, K. P. Schneider, F. K. Tuffner, X. Chen, R. Sadnan, T. L. Vu, L. D. Marinovici, A. Dubey,
 A. Bose, **Nathan Gray**, and C. Klauber, “Coordinated Self-Assembly of Networked Microgrids Using Irving’s
-Algorithm”, in 2024 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference
-(ISGT), Washington, DC, USA: IEEE, Feb. 19, 2024, pp. 1–5, isbn: 9798350313604.
+Algorithm”, in *2024 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference
+(ISGT)*, Washington, DC, USA: IEEE, Feb. 19, 2024, pp. 1–5, isbn: 9798350313604.
 
 [4] **Nathan Gray***, R. Sadnan, A. Bose, A. Dubey, T. L. Vu, J. Xie, L. D. Marinovici, K. P. Schneider,
 C. Klauber, and W. Trinh, “Distributed Coordination of Networked Microgrids for Voltage Support in
-Bulk Power Grids”, in 2023 IEEE Industry Applications Annual Meeting, IEEE, 2023.
+Bulk Power Grids”, in *2023 IEEE Industry Applications Annual Meeting*, Nashville, TN, USA:
+IEEE, Oct. 29, 2023.
 
 [5] S. Paul*, **Nathan Gray**, A. Dubey, A. Bose, M. Touhiduzzaman, and J. Ogle, “Robustness Assessment of
 Distributed OPF Under Communication Non-Idealities Using Cyber-Physical Co-Simulation
-Framework”, in 2023 IEEE Industry Applications Society Annual Meeting (IAS), Nashville, TN, USA:
+Framework”, in *2023 IEEE Industry Applications Society Annual Meeting (IAS)*, Nashville, TN, USA:
 IEEE, Oct. 29, 2023, pp. 1–8, isbn: 9798350320169.
 
 [6] R. Sadnan, **Nathan Gray**, A. Bose, and A. Dubey*, 
 “Bulk-power Grid Support: Distributed OPF for Voltage and Frequency Regulation”, 
-in 2023 IEEE International Conference on Communications, Control, and
-Computing Technologies for Smart Grids (SmartGridComm), Oct. 2023, pp. 1–7.
+in *2023 IEEE International Conference on Communications, Control, and
+Computing Technologies for Smart Grids (SmartGridComm)*, Oct. 2023, pp. 1–7.
 
 [7] R. Sadnan, **Nathan Gray**, A. Bose, and A. Dubey, 
 “Simulation-Integrated Distributed Optimization for Unbalanced Power Distribution Systems”, 
@@ -70,20 +71,20 @@ arXiv:2212.04615 [eess.SY], 2022.
 
 [8] **Nathan Gray***, R. Sadnan, A. Bose, and A. Dubey, 
 “Effects of Communication Network Topology on Distributed Optimal Power Flow for Radial Distribution Networks”, 
-in 2021 North American Power Symposium (NAPS), 
+in *2021 North American Power Symposium (NAPS)*, 
 College Station, TX, USA: IEEE, Nov. 14, 2021, pp. 1–6, isbn: 978-1-66542-081-5.
 
 [9] R. Sadnan, **Nathan Gray***, A. Dubey, and A. Bose, 
 “Distributed Optimization for Power Distribution Systems with Cyber-Physical Co-Simulation”, 
-in 2021 IEEE Power & Energy Society General Meeting (PESGM), 
+in *2021 IEEE Power & Energy Society General Meeting (PESGM)*, 
 Washington, DC, USA: IEEE, Jul. 26, 2021, pp. 1–5, isbn: 978-1-66540-507-2.
 
-[10] S. Szablya, G. Goldsmith, K. Allen*, and **Nathan Gray***, 
+[10] S. Szablya, G. Goldsmith, K. Allen$$^*$$, and **Nathan Gray**$$^*$$, 
 “A Water System Using a DC Pump for Remote Solar Installations”, 
-in 2019 IEEE Global Humanitarian Technology Conference (GHTC), 
+in *2019 IEEE Global Humanitarian Technology Conference (GHTC)*, 
 Seattle, WA, USA: IEEE, Oct. 2019, pp. 1–1, isbn: 978-1-72811-780-5.
 
-*Presenting author
+$$^*$$Presenting author
 <br/>
 
 # Experience
