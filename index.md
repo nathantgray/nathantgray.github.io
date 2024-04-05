@@ -39,47 +39,47 @@ GitHub: [github.com/nathantgray]()
 # Experience
 
 -------------------------
-**Washington State University** 20h/wk <span style="float:right;">Aug 2018—Present</span><br/>
+**Washington State University**  <span style="float:right;">Aug 2018—Present</span><br/>
 Research Assistant and Ph.D. Student
 
-- Developed Cyber-Physical Multi-Agent Co-Simulation Platform with HELICS, GridLAB-D, ns-3, and Python.
+- Developed Cyber-Physical Multi-Agent Co-Simulation Platform with HELICS, GridLAB-D, ns-3, and Python
 - Developed a Python package for asymetric three-phase optimal power flow using the linear branch flow model with
-  support for OpenDSS models.
+  support for OpenDSS models
 - Modeled and simulated cyber-physical systems.
 - Studied distributed and decentralized algorithms for distribution system optimization and resiliency under adverse
-  communication conditions.
-- Tested algorithms for distributed and decentralized control of microgrids to prevent voltage collapse.
+  communication conditions
+- Tested algorithms for distributed and decentralized control of microgrids to prevent voltage collapse
 
 <br/>
 
-**Key Technology** 40h/wk <span style="float:right;">Mar 2018—Jul 2018</span><br/>
+**Key Technology** <span style="float:right;">Mar 2018—Jul 2018</span><br/>
 Electrical Engineer: Hardware and Reliability
 
-- Troubleshoot circuit boards and other problems.
-- Plan for replacement of obsolete parts.
-- Design test fixture.
-- Write test procedures.
-- Work with team of interdisciplinary Engineers.
+- Fixed issues with circuit boards
+- Plan for replacement of obsolete parts
+- Designed test fixtures
+- Wrote test procedures
+- Worked with a team of interdisciplinary Engineers
 
 <br/>
 
-**Key Technology** 50h/wk <span style="float:right;">Aug 2017—Feb 2018</span><br/>
+**Key Technology** <span style="float:right;">Aug 2017—Feb 2018</span><br/>
 Assembly Technician
 
-- Test and troubleshoot new machines before shipping.
+- Tested and troubleshot new machines before shipping.
 - Collaborated with engineers and technicians to solve problems.
 
 <br/>
 
-**ANR Group Inc (assigned to CHPRC)** 40h/wk Richland, WA <span style="float:right;">Jun 2017—Sep 2018</span><br/>
+**ANR Group Inc (assigned to CHPRC)** Richland, WA <span style="float:right;">Jun 2017—Sep 2018</span><br/>
 Intern Electrical Engineer in support of 100K Area Facility Engineering
 
 - Completed and submitted CHPRC Engineering Change Request package
-    - Used AutoCAD to create drawing to fully describe the system.
-    - Updated existing engineering documentation for affected systems.
-    - Consulted with Electrical and Operations Managers to ensure a practical design.
-    - Carefully studied the National Electrical Code and applied it in designs.
-- Analyzed facility electrical system to update SKM model for arc flash energy calculations.
+    - Used AutoCAD to create drawing to fully describe the system
+    - Updated existing engineering documentation for affected systems
+    - Consulted with Electrical and Operations Managers to ensure a practical design
+    - Carefully studied the National Electrical Code and applied it in designs
+- Analyzed facility electrical system to update SKM model for arc flash energy calculations
 
 <br/>
 
@@ -89,17 +89,17 @@ Intern Electrical Engineer in support of 100K Area Facility Engineering
 **Engineers Without Borders WWU** College Place, WA  <span style="float:right;">Sep 2022—Present</span><br/>
 Local Project Team Mentor
 
-- Mentor student leader.
-- Provide support and advice to project team.
+- Mentor student leader
+- Provide support and advice to project team
 
 <br/>
 
 **Engineers Without Borders WSU Project Team**  Pullman, WA <span style="float:right;">2018—2019</span><br/>
 Electrical Engineer
 
-- Design for solar-powered water pump system for off-grid community in Panama.
-- Construction of solar and electrical systems on site.
-- Technical support following installation.
+- Designed solar-powered water pump system for off-grid community in Panama
+- Constructed of solar and electrical systems on site
+- Provided technical support following installation
 
 <br/>
 
