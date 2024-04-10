@@ -43,7 +43,7 @@ GitHub: [github.com/nathantgray]()
 Research Assistant and Ph.D. Student
 
 - Developed Cyber-Physical Multi-Agent Co-Simulation Platform with HELICS, GridLAB-D, ns-3, and Python
-- Developed a Python package for asymetric three-phase optimal power flow using the linear branch flow model with
+- Developed a Python package for asymmetric three-phase optimal power flow using the linear branch flow model with
   support for OpenDSS models
 - Modeled and simulated cyber-physical systems.
 - Studied distributed and decentralized algorithms for distribution system optimization and resiliency under adverse
@@ -71,7 +71,7 @@ Assembly Technician
 
 <br/>
 
-**ANR Group Inc (assigned to CHPRC)** Richland, WA <span style="float:right;">Jun 2017—Sep 2018</span><br/>
+**ANR Group Inc (assigned to CHPRC)** Richland, WA <span style="float:right;">Jun 2016—Sep 2016</span><br/>
 Intern Electrical Engineer in support of 100K Area Facility Engineering
 
 - Completed and submitted CHPRC Engineering Change Request package
